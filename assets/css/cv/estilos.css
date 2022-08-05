@@ -1,0 +1,35 @@
+html 
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+  }
+h1
+{
+margin-bottom:0px;
+}  
+h2
+{
+margin-top:0px;
+} 
+  h3
+{
+color: #00008B;
+text-decoration: underline;
+}
+h4
+{
+padding-left: 10px;
+}
+p
+{
+padding-left: 10px;
+}
+ul 
+{
+    list-style-type: square;
+  }
+table, th, td{
+  border: 1px solid; black;
+  border-collapse: collapse;
+  padding: 5px;
+}

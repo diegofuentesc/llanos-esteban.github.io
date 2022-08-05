@@ -1,0 +1,71 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-color{
+    background-color: #28A745;
+}
+
+.title-h5 {
+    color: #212529;
+    font-size: 1.67em;
+    font-weight: 300;
+}
+
+.subtitle-p {
+    color: #707070;
+    font-size: 1.34em;
+    font-weight: 300;
+}
+
+.card-text-p {
+    color: #707070;
+    font-size: 1.09em;
+    font-weight: 300;
+}
+
+.old-price {
+    color: #707070;
+    font-size: 1.34em;
+    font-weight: 300;
+    text-decoration:line-through;
+}
+
+.new-price {
+    color: #707070;
+    font-size: 1.67em;
+    font-weight: 500;
+    color: #28A745;
+}
+
+.texto-cupon{
+    color: white;
+    font-size: 1.76em;
+    font-weight: 500;
+}
+
+.texto-forms{
+    color: #707070;
+    font-size: 1.34em;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-custom{
+    color: #212529;
+    font-size: 1.34em;
+    font-weight: 500;
+    opacity: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+footer{
+    text-align: center;
+}
+
+footer p{
+    color: #707070;
+    font-size: 1.34em;
+    font-weight: 300;
+}
+
